@@ -1,7 +1,7 @@
 LDA 2050	
 	MOV B, A	
 	LDA 2052	
-	SUB B	
+	ADD B	
 	STA 2062	
 	LDA 2051	
 	MOV B, A
